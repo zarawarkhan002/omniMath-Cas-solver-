@@ -1,0 +1,26 @@
+# OmniMath Computer Algebra System (CAS) Backend Requirements
+# Core Python & Django Stack
+
+# Django: High-level Python Web framework enabling rapid development and clean, pragmatic design
+django>=5.2.0,<6.0.0
+
+# SymPy: A Python library for symbolic mathematics (differentiation, integration, series, matrices, solvers)
+sympy>=1.13.0,<1.15.0
+
+# NumPy: Fundamental package for scientific computing with Python (vector/matrix ops, numerical grids)
+numpy>=2.1.0,<3.0.0
+
+# SciPy: Fundamental algorithms for scientific computing in Python (numerical integration, decompositions)
+scipy>=1.14.0,<2.0.0
+
+# mpmath: Python library for arbitrary-precision floating-point arithmetic
+mpmath>=1.3.0,<2.0.0
+
+# django-cors-headers: Django application for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+django-cors-headers>=4.4.0,<5.0.0
+
+# asgiref: Standard ASGI library for asynchronous view handling in modern Django
+asgiref>=3.8.0,<4.0.0
+
+# gunicorn: Python WSGI HTTP Server for UNIX production deployment
+gunicorn>=23.0.0

@@ -1,0 +1,6 @@
+{
+  "name": "OmniMath CAS & Solver",
+  "description": "Production-ready Computer Algebra System (CAS) and advanced mathematical solver with basic arithmetic calculator, powered by Django, SymPy, NumPy, and SciPy with interactive 2D/3D plotting and KaTeX rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
